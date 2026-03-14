@@ -1,3 +1,3 @@
 # My-Portfolio
 # Welcome to my portfolio.
-* The file Sales presentation.pptx is a comprehensive sales analysis with insights and recommendations 
+* The file Sales presentation.pptx is a data-driven growth strategy with insights and recommendations 
